@@ -1,0 +1,40 @@
+# Geotechnik — Lünen
+
+> Geotechnical engineering services in Lünen, Deutschland.
+
+## Services
+- [Atterberg Grenzen](https://lunen.geotechnik.sbs/atterberg-grenzen/)
+- [Aushub](https://lunen.geotechnik.sbs/aushub/)
+- [Bodenplatten](https://lunen.geotechnik.sbs/bodenplatten/)
+- [Bodenverbesserung](https://lunen.geotechnik.sbs/bodenverbesserung/)
+- [Boschungsstabilitat](https://lunen.geotechnik.sbs/boschungsstabilitat/)
+- [Cbr Strasse](https://lunen.geotechnik.sbs/cbr-strasse/)
+- [Erdbebenisolierung](https://lunen.geotechnik.sbs/erdbebenisolierung/)
+- [Fundamente](https://lunen.geotechnik.sbs/fundamente/)
+- [Geophysik](https://lunen.geotechnik.sbs/geophysik/)
+- [Grundungen](https://lunen.geotechnik.sbs/grundungen/)
+- [Hange](https://lunen.geotechnik.sbs/hange/)
+- [Korngrossenanalyse](https://lunen.geotechnik.sbs/korngrossenanalyse/)
+- [Labor](https://lunen.geotechnik.sbs/labor/)
+- [Masw](https://lunen.geotechnik.sbs/masw/)
+- [Pfahle](https://lunen.geotechnik.sbs/pfahle/)
+- [Ruttelverdichtung](https://lunen.geotechnik.sbs/ruttelverdichtung/)
+- [Schottersaulen](https://lunen.geotechnik.sbs/schottersaulen/)
+- [Schurfgruben](https://lunen.geotechnik.sbs/schurfgruben/)
+- [Seismik](https://lunen.geotechnik.sbs/seismik/)
+- [Seismische Mikrozonierung](https://lunen.geotechnik.sbs/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://lunen.geotechnik.sbs/seismische-refraktion/)
+- [Strassenbau](https://lunen.geotechnik.sbs/strassenbau/)
+- [Stutzmauern](https://lunen.geotechnik.sbs/stutzmauern/)
+- [Tiefe Aushube](https://lunen.geotechnik.sbs/tiefe-aushube/)
+- [Triaxialversuch](https://lunen.geotechnik.sbs/triaxialversuch/)
+- [Untersuchung](https://lunen.geotechnik.sbs/untersuchung/)
+- [Verflussigung](https://lunen.geotechnik.sbs/verflussigung/)
+- [Weichbodentunnel](https://lunen.geotechnik.sbs/weichbodentunnel/)
+
+## Contact
+- Website: https://lunen.geotechnik.sbs/
+
+## About
+This site provides geotechnical engineering services in Lünen, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
